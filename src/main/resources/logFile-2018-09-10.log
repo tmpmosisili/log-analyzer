@@ -1,0 +1,17 @@
+2018-09-10 15:32:34,611 INFO  [main] Application: Starting Application on phxdabs56 with PID 6184 (E:\FluentGrid\WorkingCopy\REP\target\classes started by Sekhar in E:\FluentGrid\WorkingCopy\REP)
+2018-09-10 15:32:34,626 DEBUG [main] Application: Running with Spring Boot v1.1.9.RELEASE, Spring v4.0.8.RELEASE
+2018-09-10 15:32:41,709 DEBUG [main] AsyncConfiguration: Creating Async Task Executor
+2018-09-10 15:32:43,253 DEBUG [main] MetricsConfiguration: Registering JVM gauges
+2018-09-10 15:32:44,298 INFO  [main] MetricsConfiguration: Initializing Metrics JMX reporting
+2018-09-10 15:32:50,306 ERROR  [main] LifecycleService: [127.0.0.1]:5701 [dev] [3.2.5] Address[127.0.0.1]:5701 is STARTED
+2018-09-10 15:32:46,750 INFO  [main] DefaultAddressPicker: null [dev] [3.2.5] Picked Address[127.0.0.1]:5701, using socket ServerSocket[addr=/0:0:0:0:0:0:0:0,localport=5701], bind any local is true
+2018-09-10 15:32:47,764 INFO  [main] system: [127.0.0.1]:5701 [dev] [3.2.5] Hazelcast 3.2.5 (20140814) starting at Address[127.0.0.1]:5701
+2018-09-10 15:32:47,764 INFO  [main] system: [127.0.0.1]:5701 [dev] [3.2.5] Copyright (C) 2008-2014 Hazelcast.com
+2018-09-10 15:32:47,779 INFO  [main] LifecycleService: [127.0.0.1]:5701 [dev] [3.2.5] Address[127.0.0.1]:5701 is STARTING
+2018-09-10 15:32:48,700 DEBUG [hz.repapp.cached.thread-1] HttpURLConnection: sun.net.www.MessageHeader@60b81f145 pairs: {GET /version.jsp?version=3.2.5&m=084772e2-bcd1-4770-897a-2bfeaffbb83b&e=false&l=NULL&p=maven&c=e77989ed21758e78331b20e477fc5582&crsz=A&cssz=A HTTP/1.1: null}{User-Agent: Mozilla/5.0}{Host: versioncheck.hazelcast.com}{Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2}{Connection: keep-alive}
+2018-09-10 15:32:49,058 DEBUG [hz.repapp.cached.thread-1] HttpURLConnection: sun.net.www.MessageHeader@7581d7055 pairs: {null: HTTP/1.1 200 OK}{Server: Apache-Coyote/1.1}{Content-Type: text/xml;charset=UTF-8}{Transfer-Encoding: chunked}{Date: Thu, 10 Sep 2015 10:04:08 GMT}
+2018-09-10 15:32:50,150 WARN  [main] Node: [127.0.0.1]:5701 [dev] [3.2.5] No join method is enabled! Starting standalone.
+2018-09-10 15:32:50,306 INFO  [main] LifecycleService: [127.0.0.1]:5701 [dev] [3.2.5] Address[127.0.0.1]:5701 is STARTED
+2018-09-10 15:32:50,369 DEBUG [main] CacheConfiguration: Starting HazelcastCacheManager
+2018-09-10 15:32:58,949 DEBUG [localhost-startStop-1] DatabaseConfiguration: Configuring Datasource
+2018-09-10 15:32:43,253 ERROR [main] MetricsConfiguration: Registering JVM gauges
