@@ -24,6 +24,7 @@ public class LogAnalyzerApplication {
 			storageService.deleteAll();
 			storageService.init();
 		};
+		//Adding comments in the code
 	}
 	
 }
